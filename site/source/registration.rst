@@ -56,8 +56,7 @@ El programa “Head Start”
 
 Buscando más información sobre nuestros programas de Primera Infancia, o quiere hacer una cita para Head Start / Preescolar, por favor, rellene el formulario y nos pondremos en contacto con usted.
 
-Código QR
-¡Escanéame para obtener más información!
+`Información sobre el programa "Head Start" <https://docs.google.com/forms/d/e/1FAIpQLSdCeqpGT1xt-0NNIoYhq21YrbMPumt-YW6GmL4QTwG_pA0Ruw/viewform>`_
 
 Requisitos:
  * Los ingresos de la familia son iguales o inferiores a la línea de pobreza.
@@ -151,6 +150,12 @@ Estos documentos tendrán que ser copiados, y/o escaneados y enviados por correo
 
   * Un documento a nombre del padre/tutor que indique claramente la dirección vinculada a la inscripción del estudiante. Documentos aceptados: contrato de alquiler actual o del mes anterior, factura de servicios públicos, estado de cuenta de la hipoteca, etc. Consulte el `Reglamento del Distrito JCA-R <http://www.sf.k12.sd.us/our-district/district-policies/j-students/jca-r>`_ para obtener una lista completa de la documentación permitida.
 
+
+Información de los estudiantes actuales (Grados 1-12)
+*****************************************************
+
+Visite esta página para actualizar la información del estudiante ACTUAL
+Información sobre la inscripción
 
 Academia Virtual del Distrito Escolar de Sioux Falls (Grados 3-8)
 *****************************************************************
