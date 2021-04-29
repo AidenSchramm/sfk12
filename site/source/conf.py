@@ -22,7 +22,7 @@ copyright = '2021, Aiden Schramm'
 author = 'Aiden Schramm'
 
 # The full version, including alpha/beta/rc tags
-release = '0.0.1'
+release = '0.0.3'
 
 
 # -- General configuration ---------------------------------------------------
@@ -63,6 +63,5 @@ html_static_path = ['_static']
 
 html_show_sourcelink = False
 
-
-
+locale_dirs = ['locale/']
 
